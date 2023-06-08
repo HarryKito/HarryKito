@@ -2,7 +2,7 @@
 ## Who am I 🤖🇰🇷
 I'm interested in embedded software technology and I'm sophomore of university in Korea.
 
-#Plan NOW
-## make todo CLI
-## update 2048game
-## make own AI
+# Plan NOW
+### make todo CLI
+### update 2048game
+### make own AI
