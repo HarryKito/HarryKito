@@ -6,6 +6,6 @@ I'm a university student who interested in embedded software technologies.
 ### make todo CLI
 ### update 2048game
 ### make own AI
-### markdown editor
+### Git Easy collabo application
 ### Project Light system
-### Robot Plane
+### Precision Landing migration to Ardupilot project for open source
