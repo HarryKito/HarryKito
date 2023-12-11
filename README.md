@@ -3,9 +3,9 @@
 I'm a university student who interested in embedded software technologies.
 
 # Plan NOW
-### make todo CLI
 ### update 2048game
 ### make own AI
 ### Git Easy collabo application
 ### Project Light system
 ### Precision Landing migration to Ardupilot project for open source
+### Personal WeatherAPI
