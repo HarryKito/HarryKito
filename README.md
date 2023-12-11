@@ -7,5 +7,6 @@ I'm a university student who interested in embedded software technologies.
 ### make own AI
 ### Git Easy collabo application
 ### Project Light system
-### Precision Landing migration to Ardupilot project for open source
+### Developed Precision Landing migration to Ardupilot project for open source
+from https://github.com/haiiron/ardupilot
 ### Personal WeatherAPI
