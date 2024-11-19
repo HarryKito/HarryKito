@@ -9,7 +9,7 @@ I am a university student in South Korea, majoring in aviation software, with a 
 ### 📊 matlab
 * Simulink
 * UAV Toolbox
-### Dart with Flutter
+### :dart: Dart with Flutter
 
 <!--
 ### Developed Precision Landing migration to Ardupilot project for open source
