@@ -10,7 +10,7 @@ I am a university student in South Korea, majoring in aviation software, with a 
 * Simulink
 * UAV Toolbox
 ### :dart: Dart with Flutter
-
+### FPGA with AMD(+petalinux)
 <!--
 ### Developed Precision Landing migration to Ardupilot project for open source
 from https://github.com/haiiron/ardupilot
